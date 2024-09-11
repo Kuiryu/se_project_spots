@@ -22,3 +22,4 @@ This project is a social web page for posting pictures and making a profile. Thi
 ![alt text](images/5-photo-by-van-anh-nguyen-from-pexels.jpg)
 ![alt text](images/6-photo-by-moritz-feldmann-from-pexels.jpg)
 ![alt text](images/avatar.jpg)
+https://github.com/Kuiryu/se_project_spots
