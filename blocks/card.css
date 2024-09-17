@@ -18,7 +18,7 @@
 
 .card__title {
   margin-top: 12px;
-  margin-bottom: 22px;
+  margin-bottom: 0px;
   font-weight: 500;
   color: #212121;
   font-size: 20px;
@@ -47,10 +47,12 @@
   .card__image {
     height: 318px;
     width: 288px;
-    font-size: 16px;
-    line-height: 16px;
   }
   .card {
     width: 288px;
+  }
+  .card__title {
+    font-size: 16px;
+    line-height: 16px;
   }
 }
