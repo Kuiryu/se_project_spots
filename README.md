@@ -23,3 +23,5 @@ This project is a social web page for posting pictures and making a profile. Thi
 ![alt text](images/6-photo-by-moritz-feldmann-from-pexels.jpg)
 ![alt text](images/avatar.jpg)
 https://github.com/Kuiryu/se_project_spots
+https://kuiryu.github.io/se_project_spots/index.html
+https://drive.google.com/file/d/1-2ihNaDPZi2uAztP0DS0SzBuEROmjFDw/view?usp=sharing
