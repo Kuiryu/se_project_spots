@@ -41,15 +41,15 @@ const cardTemplate = document.querySelector("#card-template");
 const cardsList = document.querySelector(".cards__list");
 
 function getCardElement(data) {
-  console.log(data);
   const cardElement = cardTemplate.content
     .querySelector(".card")
     .cloneNode(true);
-
   const cardNameEl = cardElement.querySelector(".card__title");
-  const image = document.getElementById("myImage");
+  const image = cardElement.querySelector(".card__image");
 
   cardNameEl.textContent = data.name;
+  image.src = data.link;
+  image.alt = data.name;
 
   return cardElement;
 }
