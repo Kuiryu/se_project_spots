@@ -46,7 +46,6 @@
   border: none;
   cursor: pointer;
   opacity: 0.4;
-  color: #212121;
 }
 
 .modal__close-btn:hover {
